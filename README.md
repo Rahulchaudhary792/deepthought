@@ -1,2 +1,1 @@
 # deepthought
-Frontend Assessment
